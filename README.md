@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋, I'm tuantv</h3>
+<h2 align="left">Hi 👋, I'm tuantv</h2>
 
 - 🔭 I’m currently developing a Mobile and Web app
 - 🌱 I’m currently learning advanced concepts of **Flutter, React Native, Swift IOS**
