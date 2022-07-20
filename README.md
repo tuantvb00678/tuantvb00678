@@ -1,15 +1,10 @@
 <h3 align="left">Hi 👋, I'm tuantv</h3>
 
 - 🔭 I’m currently developing a Mobile and Web app
-
 - 🌱 I’m currently learning advanced concepts of **Flutter, React Native, Swift IOS**
-
 - 👯 I’m looking to collaborate on <a href="https://youtube.com/beercode" rel="nofollow">YouTube</a>
-
 - 👨‍💻 All of my projects are available at <a href="https://github.com/tuantvb00678" rel="nofollow">here</a>
-
 - 💬 Ask me about **Flutter, Reactjs, Swift IOS**
-
 - ⚡  Fun fact: I love to listen songs. AR & Space exploration excites me
 
 <h3 align="left">Connect with me:</h3>
